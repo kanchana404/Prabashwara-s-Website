@@ -113,10 +113,9 @@ ul {
 .container {
   position: relative;
   width: 100%;
-  max-width: 1060px;
+  max-width: 75rem;
   padding: 0 1.5rem;
   margin: 0 auto;
-  text-align: center;
 }
 
 .logo {
