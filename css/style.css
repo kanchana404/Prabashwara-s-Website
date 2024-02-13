@@ -1433,6 +1433,7 @@ footer .social-media {
 @media (max-width: 768px) {
   :root {
     --section-padding: 70px;
+    /* --section-padding: 4.5rem; */
   }
 
   .triangle {
